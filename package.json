@@ -17,7 +17,7 @@
     "build": "coffee -c index.coffee"
   },
   "dependencies": {
-    "node-expat": "^2.3.15"
+    "node-expat": "^2.3.16"
   },
   "devDependencies": {
     "coffee-script": "^1.12.3",
